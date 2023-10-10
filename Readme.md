@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Oleg Khasevich](https://up.htmlacademy.ru/javascript/30/user/2288783).
-* Наставник: `Неизвестно`.
+* Наставник: [Artem Kartavyi](https://htmlacademy.ru/profile/artem_k).
 
 ---
 
